@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="clasifier_lib/clasifier_lib.csproj" />
+  <Project Path="test_clasifier/test_clasifier.csproj" />
+</Solution>
